@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515447579914",
+    "firebase_url": "https://chatdemo-87cec.firebaseio.com",
+    "project_id": "chatdemo-87cec",
+    "storage_bucket": "chatdemo-87cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515447579914:android:2c5a19c79db989c9",
+        "android_client_info": {
+          "package_name": "dohieu.com.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515447579914-d462j96fg56lb1j5qahes30e6t0ki09m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dohieu.com.chatdemo",
+            "certificate_hash": "ffe3b2416d5ba9e74655ee58fa3aad444bc26a74"
+          }
+        },
+        {
+          "client_id": "515447579914-033qm4uso6meafvh32tls8tevpla3hfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lfp7ptwChNIjHLwf_B2l3GEu5V5aZnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515447579914-033qm4uso6meafvh32tls8tevpla3hfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
